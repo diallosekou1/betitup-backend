@@ -6,9 +6,21 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.12.1",
     "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2"
-  }
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diallosekou1/betitup-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diallosekou1/betitup-backend/issues"
+  },
+  "homepage": "https://github.com/diallosekou1/betitup-backend#readme"
 }
